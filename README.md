@@ -1,4 +1,4 @@
-Humboldt-Universität zu Berlin | Institut für deutsche Sprache und Linguistik | SS 2020 | LV "Einführung in NLP mit Python" (Thomas Krause)
+Humboldt-Universität zu Berlin | Institut für deutsche Sprache und Linguistik | Sommersemester 2020 | LV "Einführung in NLP mit Python" (Thomas Krause)
 
 ## Projektgruppe
 * Lorena Ciutacu
