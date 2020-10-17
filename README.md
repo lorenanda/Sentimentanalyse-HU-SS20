@@ -21,7 +21,7 @@ In diesem Projekt benutzen wir die folgende Datasets:
 ## Analyse
 Erstens haben wir eine [Text- bzw. Sentimentanalyse von deutschen Kaffeebewertungen](https://github.com/lorenanda/Sentimentanalyse-HU-SS20/blob/master/sentiment_analyse.ipynb) mit VADER und TextBlob durchgeführt.
 
-Zweitens haben wir englische und deutsche Kleidungsbewertungen (übersetzte Bewertungen) mit SpaCy verarbeitet, dann zwei Machine Learning Modelle für die Klassifizierung von Sentiment-Scores verwendet und folgende Genauigkeit Werte erreicht:
+Zweitens haben wir englische und deutsche Kleidungsbewertungen (übersetzte Bewertungen) mit SpaCy verarbeitet, dann zwei Machine Learning Modelle für die [Klassifizierung von Sentiment-Scores](https://github.com/lorenanda/Sentimentanalyse-HU-SS20/blob/master/spacy_kleidung.ipynb) verwendet und folgende Genauigkeit Werte erreicht:
 - Logistic Regression: 95,65% auf English bzw. 86,53% auf Deutsch
 - Support Vector Classifier: 86,46% auf English
 
