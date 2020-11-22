@@ -30,8 +30,3 @@ Zweitens haben wir englische und deutsche Kleidungsbewertungen (übersetzte Bewe
 * [TextBlob](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis)
 * [SpaCy](https://spacy.io/usage/models)
 * [Sentiment Wortschatz](https://wortschatz.uni-leipzig.de/en/download/)
-
-## Quellen / Tutorials
-* [VADER](https://github.com/cjhutto/vaderSentiment#demo-including-example-of-non-english-text-translations)
-* [SpaCy](https://medium.com/analytics-vidhya/training-your-own-sentiment-analyzer-with-spacy-9b924df1514c)
-* [Common pitfalls with the preprocessing of German text for NLP](https://medium.com/idealo-tech-blog/common-pitfalls-with-the-preprocessing-of-german-text-for-nlp-3cfb8dc19ebe)
